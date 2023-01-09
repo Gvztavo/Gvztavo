@@ -26,6 +26,8 @@ Seja bem vindo ao meu repositorio!!
 
  
 </div>
+
+![snake gif](https://github.com/Gvztavo/Gvztavo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Gvztavo/Gvztavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
